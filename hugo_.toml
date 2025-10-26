@@ -4,9 +4,9 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseURL = "https://anapajovic.github.io/"
+baseURL = "anapajovic.github.io"
 languageCode = "en-us"
-title = "HUGO MyPortfolio Theme"
+title = "Ana Pajovic Portfolio"
 theme = "hugo-myportfolio-theme"
 
 [markup.goldmark.renderer]
