@@ -6,5 +6,5 @@ tags: [ "bundle", "drawing" ]
 images:
 - src: "draw2.jpg"
   title: "Weird drawing"
-  copyright: "DEREK SEVERIN"
+  copyright: "DEREK SEVERIN test test"
 ---
